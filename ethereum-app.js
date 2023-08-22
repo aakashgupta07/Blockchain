@@ -1,3 +1,4 @@
+pragma solidity 0.5.11;
 contract SmartContract1 {
     uint storedData;
     address payable[] recipient;
